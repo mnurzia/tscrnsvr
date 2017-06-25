@@ -1,9 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(name="tscrnsvr",
-    version="0.1.0",
+    version="0.1.0a",
     description="Cool screensavers for the terminal",
-    long_description=open("README.md").read(),
+    long_description="""`Repo
+<https://github.com/illinoisjackson/tscrnsvr/>`_""",
     url="https://github.com/illinoisjackson/terminal-screensavers",
     author="illinoisjackson",
     author_email="icantpostmyemailhere@gmail.com",
